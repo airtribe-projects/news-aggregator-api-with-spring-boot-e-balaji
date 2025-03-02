@@ -1,0 +1,9 @@
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\config\SecurityConfig.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\entity\Preferences.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\entity\User.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\NewsapiApplication.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\repository\PreferencesRepository.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\repository\UserRepository.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\service\JwtService.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\service\UserDetailsServiceImpl.java
+E:\airtribe\newsapi\src\main\java\com\airtribe\newsapi\utils\JwtFilter.java
