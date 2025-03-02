@@ -1,0 +1,9 @@
+com\airtribe\newsapi\service\JwtService.class
+com\airtribe\newsapi\service\UserDetailsServiceImpl.class
+com\airtribe\newsapi\repository\PreferencesRepository.class
+com\airtribe\newsapi\repository\UserRepository.class
+com\airtribe\newsapi\utils\JwtFilter.class
+com\airtribe\newsapi\entity\Preferences.class
+com\airtribe\newsapi\entity\User.class
+com\airtribe\newsapi\config\SecurityConfig.class
+com\airtribe\newsapi\NewsapiApplication.class
